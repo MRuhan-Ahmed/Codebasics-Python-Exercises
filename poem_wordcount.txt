@@ -1,0 +1,26 @@
+wordcount: 4 The Road Not Taken
+wordcount: 3 BY ROBERT FROST
+wordcount: 1 
+wordcount: 7 Two roads diverged in a yellow wood,
+wordcount: 7 And sorry I could not travel both
+wordcount: 7 And be one traveler, long I stood
+wordcount: 9 And looked down one as far as I could
+wordcount: 7 To where it bent in the undergrowth;
+wordcount: 1 
+wordcount: 8 Then took the other, as just as fair,
+wordcount: 6 And having perhaps the better claim,
+wordcount: 7 Because it was grassy and wanted wear;
+wordcount: 7 Though as for that the passing there
+wordcount: 7 Had worn them really about the same,
+wordcount: 1 
+wordcount: 6 And both that morning equally lay
+wordcount: 7 In leaves no step had trodden black.
+wordcount: 8 Oh, I kept the first for another day!
+wordcount: 8 Yet knowing how way leads on to way,
+wordcount: 8 I doubted if I should ever come back.
+wordcount: 1 
+wordcount: 8 I shall be telling this with a sigh
+wordcount: 5 Somewhere ages and ages hence:
+wordcount: 8 Two roads diverged in a wood, and I—
+wordcount: 7 I took the one less traveled by,
+wordcount: 7 And that has made all the difference.
